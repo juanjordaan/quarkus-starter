@@ -1,4 +1,4 @@
-package com.oldmutual.api.interfaces.rest;
+package cloud.jordaan.juan.api.interfaces.rest;
 
 import io.quarkus.vertx.web.Route;
 import io.quarkus.vertx.web.Route.HttpMethod;
